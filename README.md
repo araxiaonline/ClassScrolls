@@ -13,7 +13,9 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ## Class Abilities
 
-### **Aquamancer** (Inspired by Twilight Aquamancer)
+### **Aquamancer**  
+**Inspired by:** Twilight Aquamancer  
+**Item ID:** 500500 *(Aquamancer Scroll)*  
 
 | **New ID**  | **Original ID** | **Ability Name**      | **Class (Power Type)**     |
 |-------------|-----------------|-----------------------|----------------------------|
@@ -26,7 +28,9 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ---
 
-### **Astromancer** (Inspired by Sunfury Astromancer and Novice Astromancer)
+### **Astromancer** 
+**Inspired by:** Sunfury Astromancer and Novice Astromancer)
+**Item ID:** 500501 *(Astromancer Scroll)*  
 
 | **New ID**  | **Original ID** | **Ability Name**      | **Class (Power Type)**     |
 |-------------|-----------------|-----------------------|----------------------------|
