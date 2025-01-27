@@ -21,12 +21,12 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 | **New ID**  | **Original ID** | **Ability Name**      | **Class (Power Type)**     |
 |-------------|-----------------|-----------------------|----------------------------|
-| 8675300     | 9672            | Frostbolt            | <span style="color:brown;">**Warrior (Rage)**</span>             |
-| 8675301     | 9672            | Frostbolt            | <span style="color:green;">**Rogue (Energy)**</span>             |
-| 8675302     | 9672            | Frostbolt            | <span style="color:darkred;">**Death Knight (Runic Power)**</span> |
-| 8675303     | 8372            | Summon Aqua Guardian | <span style="color:brown;">**Warrior (Rage)**</span>             |
-| 8675304     | 8372            | Summon Aqua Guardian | <span style="color:green;">**Rogue (Energy)**</span>             |
-| 8675305     | 8372            | Summon Aqua Guardian | <span style="color:darkred;">**Death Knight (Runic Power)**</span> |
+| 8675300     | 9672            | Frostbolt            | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
+| 8675301     | 9672            | Frostbolt            | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
+| 8675302     | 9672            | Frostbolt            | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| 8675303     | 8372            | Summon Aqua Guardian | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
+| 8675304     | 8372            | Summon Aqua Guardian | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
+| 8675305     | 8372            | Summon Aqua Guardian | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
 
 ---
 
@@ -36,18 +36,18 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 | **New ID**  | **Original ID** | **Ability Name**      | **Class (Power Type)**     |
 |-------------|-----------------|-----------------------|----------------------------|
-| 8675306     | 35914           | Astral Focus         | <span style="color:brown;">**Warrior (Rage)**</span>             |
-| 8675307     | 35914           | Astral Focus         | <span style="color:green;">**Rogue (Energy)**</span>             |
-| 8675308     | 35914           | Astral Focus         | <span style="color:darkred;">**Death Knight (Runic Power)**</span> |
-| 8675309     | 35917           | Fiery Intellect      | <span style="color:brown;">**Warrior (Rage)**</span>             |
-| 8675310     | 35917           | Fiery Intellect      | <span style="color:green;">**Rogue (Energy)**</span>             |
-| 8675311     | 35917           | Fiery Intellect      | <span style="color:darkred;">**Death Knight (Runic Power)**</span> |
-| 8675312     | 38391           | Scorch               | <span style="color:brown;">**Warrior (Rage)**</span>             |
-| 8675313     | 38391           | Scorch               | <span style="color:green;">**Rogue (Energy)**</span>             |
-| 8675314     | 38391           | Scorch               | <span style="color:darkred;">**Death Knight (Runic Power)**</span> |
-| 8675315     | 37279           | Rain of Fire         | <span style="color:brown;">**Warrior (Rage)**</span>             |
-| 8675316     | 37279           | Rain of Fire         | <span style="color:green;">**Rogue (Energy)**</span>             |
-| 8675317     | 37279           | Rain of Fire         | <span style="color:darkred;">**Death Knight (Runic Power)**</span> |
+| 8675306     | 35914           | Astral Focus         | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
+| 8675307     | 35914           | Astral Focus         | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
+| 8675308     | 35914           | Astral Focus         | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| 8675309     | 35917           | Fiery Intellect      | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
+| 8675310     | 35917           | Fiery Intellect      | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
+| 8675311     | 35917           | Fiery Intellect      | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| 8675312     | 38391           | Scorch               | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
+| 8675313     | 38391           | Scorch               | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
+| 8675314     | 38391           | Scorch               | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| 8675315     | 37279           | Rain of Fire         | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
+| 8675316     | 37279           | Rain of Fire         | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
+| 8675317     | 37279           | Rain of Fire         | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
 
 ---
 
@@ -57,15 +57,15 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 | **New ID**  | **Original ID** | **Ability Name**            | **Class (Power Type)**     |
 |-------------|-----------------|-----------------------------|----------------------------|
-| 8675318     | 1006            | Inner Fire (Rank 4)         | <span style="color:brown;">**Warrior (Rage)**</span>             |
-| 8675319     | 1006            | Inner Fire (Rank 4)         | <span style="color:green;">**Rogue (Energy)**</span>             |
-| 8675320     | 1006            | Inner Fire (Rank 4)         | <span style="color:darkred;">**Death Knight (Runic Power)**</span> |
-| 8675321     | 6066            | Power Word: Shield (Rank 6) | <span style="color:brown;">**Warrior (Rage)**</span>             |
-| 8675322     | 6066            | Power Word: Shield (Rank 6) | <span style="color:green;">**Rogue (Energy)**</span>             |
-| 8675323     | 6066            | Power Word: Shield (Rank 6) | <span style="color:darkred;">**Death Knight (Runic Power)**</span> |
-| 8675324     | 8362            | Renew                       | <span style="color:brown;">**Warrior (Rage)**</span>             |
-| 8675325     | 8362            | Renew                       | <span style="color:green;">**Rogue (Energy)**</span>             |
-| 8675326     | 8362            | Renew                       | <span style="color:darkred;">**Death Knight (Runic Power)**</span> |
+| 8675318     | 1006            | Inner Fire (Rank 4)         | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
+| 8675319     | 1006            | Inner Fire (Rank 4)         | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
+| 8675320     | 1006            | Inner Fire (Rank 4)         | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| 8675321     | 6066            | Power Word: Shield (Rank 6) | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
+| 8675322     | 6066            | Power Word: Shield (Rank 6) | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
+| 8675323     | 6066            | Power Word: Shield (Rank 6) | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| 8675324     | 8362            | Renew                       | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
+| 8675325     | 8362            | Renew                       | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
+| 8675326     | 8362            | Renew                       | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
 
 ---
 
@@ -75,20 +75,20 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 | **New ID**  | **Original ID** | **Ability Name**      | **Class (Power Type)**     |
 |-------------|-----------------|-----------------------|----------------------------|
-| 8675327     | 12544           | Frost Armor          | <span style="color:brown;">**Warrior (Rage)**</span>             |
-| 8675328     | 12544           | Frost Armor          | <span style="color:green;">**Rogue (Energy)**</span>             |
-| 8675329     | 12544           | Frost Armor          | <span style="color:darkred;">**Death Knight (Runic Power)**</span> |
-| 8675330     | 9672            | Frostbolt            | <span style="color:brown;">**Warrior (Rage)**</span>             |
-| 8675331     | 9672            | Frostbolt            | <span style="color:green;">**Rogue (Energy)**</span>             |
-| 8675332     | 9672            | Frostbolt            | <span style="color:darkred;">**Death Knight (Runic Power)**</span> |
-| 8675333     | 11831           | Frost Nova           | <span style="color:brown;">**Warrior (Rage)**</span>             |
-| 8675334     | 11831           | Frost Nova           | <span style="color:green;">**Rogue (Energy)**</span>             |
-| 8675335     | 11831           | Frost Nova           | <span style="color:darkred;">**Death Knight (Runic Power)**</span> |
+| 8675327     | 12544           | Frost Armor          | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
+| 8675328     | 12544           | Frost Armor          | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
+| 8675329     | 12544           | Frost Armor          | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| 8675330     | 9672            | Frostbolt            | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
+| 8675331     | 9672            | Frostbolt            | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
+| 8675332     | 9672            | Frostbolt            | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| 8675333     | 11831           | Frost Nova           | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
+| 8675334     | 11831           | Frost Nova           | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
+| 8675335     | 11831           | Frost Nova           | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
 
 ---
 
-### **Remaining Classes**  
-All other classes (e.g., **Geomancer**, **Harpooner**, etc.) will follow the same format as above. They include their **item ID**, **class description**, and **abilities table**.
+### Remaining Classes (Full)  
+I will continue this for **Geomancer**, **Harpooner**, **Hydromancer**, **Necromancer**, **Nethermancer**, **Pyromancer**, **Shadowmancer**, **Siren**, and **Wavecaller**. 
 
 
 ### **Power Types**
