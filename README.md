@@ -1,4 +1,4 @@
-# Custom Azeroth WoW Sub-Class Scrolls
+# Custom Araxia Sub-Class Scrolls
 
 This repository contains the class scroll designs and spell modifications for a **Azerothcore WOTLK 3.3.5**. Each class is inspired by existing NPC archetypes and includes a set of unique abilities adapted to work for different power types: **Rage**, **Energy**, and **Runic Power**.
 
