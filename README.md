@@ -35,26 +35,24 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ---
 
-### **Astromancer**  
-**Inspired by:** Sunfury Astromancer and Novice Astromancer  
+### **✨ Astromancer (Inspired by Sunfury Astromancer and Novice Astromancer)**  
 **Item ID:** 500501 *(Astromancer Scroll)*  
 
-| **New ID**  | **Original ID** | **Ability Name**      | **Class (Power Type)**     |
-|-------------|-----------------|-----------------------|----------------------------|
-| 8675306     | 35914           | Astral Focus         | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
-| 8675307     | 35914           | Astral Focus         | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
-| 8675308     | 35914           | Astral Focus         | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
-| 8675309     | 35917           | Fiery Intellect      | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
-| 8675310     | 35917           | Fiery Intellect      | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
-| 8675311     | 35917           | Fiery Intellect      | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
-| 8675312     | 38391           | Scorch               | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
-| 8675313     | 38391           | Scorch               | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
-| 8675314     | 38391           | Scorch               | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
-| 8675315     | 37279           | Rain of Fire         | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
-| 8675316     | 37279           | Rain of Fire         | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
-| 8675317     | 37279           | Rain of Fire         | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| **New ID** | **Original ID** | **Ability Name** | **Class (Power Type)** | **Power Cost** | **Equivalent Ability** |
+|------------|--------------|----------------|------------------|--------------|-------------------------------|
+| **8675312** | 35914 | **Astral Focus** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **25 Rage** | **Battle Shout (Warrior)** |
+| **8675313** | 35914 | **Astral Focus** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **40 Energy** | **Slice and Dice (Rogue)** |
+| **8675314** | 35914 | **Astral Focus** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Horn of Winter (Death Knight)** |
+| **8675315** | 35917 | **Fiery Intellect** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **30 Rage** | **Commanding Shout (Warrior)** |
+| **8675316** | 35917 | **Fiery Intellect** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **45 Energy** | **Tricks of the Trade (Rogue, self-cast equivalent)** |
+| **8675317** | 35917 | **Fiery Intellect** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP** | **Unholy Frenzy (Death Knight, weaker effect)** |
+| **8675318** | 38391 | **Scorch** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **15 Rage** | **Heroic Strike (Warrior, ranged equivalent)** |
+| **8675319** | 38391 | **Scorch** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **30 Energy** | **Sinister Strike (Rogue, weaker fire version)** |
+| **8675320** | 38391 | **Scorch** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **25 RP** | **Death Coil (Death Knight, fire version)** |
+| **8675321** | 37279 | **Rain of Fire** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **30 Rage** | **Thunder Clap (Warrior, AoE equivalent)** |
+| **8675322** | 37279 | **Rain of Fire** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **45 Energy** | **Fan of Knives (Rogue, fire version)** |
+| **8675323** | 37279 | **Rain of Fire** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP** | **Blood Boil (Death Knight, fire version)** |
 
----
 
 ### **Chaplain**  
 **Inspired by:** Scarlet Chaplain  
