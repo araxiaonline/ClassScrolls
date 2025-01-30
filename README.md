@@ -24,14 +24,14 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **8675301** | 9672  | **Frostbolt** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **45 Energy** | **Mutilate (Rogue)** |
 | **8675302** | 9672  | **Frostbolt** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP** | **Frost Strike (Death Knight)** |
 | **8675303** | 8372  | **Summon Aqua Guardian** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **0 Rage** | **Mirror Image (Mage)** |
-| **8675304** | 8372  | **Summon Aqua Guardian** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **0 Energy** | **Shadow Clone (Rogue, PvE Event)** |
-| **8675305** | 8372  | **Summon Aqua Guardian** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **0 RP** | **Army of the Dead (Death Knight, weaker)** |
+| **8675304** | 8372  | **Summon Aqua Guardian** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **0 Energy** | **Shadow Clone (Rogue)** |
+| **8675305** | 8372  | **Summon Aqua Guardian** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **0 RP** | **Army of the Dead (Death Knight)** |
 | **8675306** | 71686 | **Water Bolt** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **15 Rage** | **Heroic Strike (Warrior)** |
 | **8675307** | 71686 | **Water Bolt** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **30 Energy** | **Sinister Strike (Rogue)** |
-| **8675308** | 71686 | **Water Bolt** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **25 RP** | **Death Coil (Death Knight, weaker)** |
+| **8675308** | 71686 | **Water Bolt** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **25 RP** | **Death Coil (Death Knight)** |
 | **8675309** | 13586 | **Aqua Jet** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Intercept (Warrior)** |
 | **8675310** | 13586 | **Aqua Jet** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Shadowstep (Rogue)** |
-| **8675311** | 13586 | **Aqua Jet** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Death's Advance (Death Knight, PvP Talent Equivalent)** |
+| **8675311** | 13586 | **Aqua Jet** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Death's Advance (Death Knight)** |
 
 ---
 
@@ -44,33 +44,34 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **8675313** | 35914 | **Astral Focus** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **40 Energy** | **Slice and Dice (Rogue)** |
 | **8675314** | 35914 | **Astral Focus** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Horn of Winter (Death Knight)** |
 | **8675315** | 35917 | **Fiery Intellect** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **30 Rage** | **Commanding Shout (Warrior)** |
-| **8675316** | 35917 | **Fiery Intellect** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **45 Energy** | **Tricks of the Trade (Rogue, self-cast equivalent)** |
-| **8675317** | 35917 | **Fiery Intellect** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP** | **Unholy Frenzy (Death Knight, weaker effect)** |
-| **8675318** | 38391 | **Scorch** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **15 Rage** | **Heroic Strike (Warrior, ranged equivalent)** |
-| **8675319** | 38391 | **Scorch** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **30 Energy** | **Sinister Strike (Rogue, weaker fire version)** |
-| **8675320** | 38391 | **Scorch** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **25 RP** | **Death Coil (Death Knight, fire version)** |
-| **8675321** | 37279 | **Rain of Fire** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **30 Rage** | **Thunder Clap (Warrior, AoE equivalent)** |
-| **8675322** | 37279 | **Rain of Fire** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **45 Energy** | **Fan of Knives (Rogue, fire version)** |
-| **8675323** | 37279 | **Rain of Fire** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP** | **Blood Boil (Death Knight, fire version)** |
+| **8675316** | 35917 | **Fiery Intellect** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **45 Energy** | **Tricks of the Trade (Rogue)** |
+| **8675317** | 35917 | **Fiery Intellect** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP** | **Unholy Frenzy (Death Knight)** |
+| **8675318** | 38391 | **Scorch** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **15 Rage** | **Heroic Strike (Warrior)** |
+| **8675319** | 38391 | **Scorch** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **30 Energy** | **Sinister Strike (Rogue)** |
+| **8675320** | 38391 | **Scorch** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **25 RP** | **Death Coil (Death Knight)** |
+| **8675321** | 37279 | **Rain of Fire** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **30 Rage** | **Thunder Clap (Warrior)** |
+| **8675322** | 37279 | **Rain of Fire** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **45 Energy** | **Fan of Knives (Rogue)** |
+| **8675323** | 37279 | **Rain of Fire** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP** | **Blood Boil (Death Knight)** |
 
 
-### **Chaplain**  
-**Inspired by:** Scarlet Chaplain  
+### **💛 Chaplain (Inspired by Scarlet Chaplain)**  
 **Item ID:** 500502 *(Chaplain Scroll)*  
 
-| **New ID**  | **Original ID** | **Ability Name**            | **Class (Power Type)**     |
-|-------------|-----------------|-----------------------------|----------------------------|
-| 8675318     | 1006            | Inner Fire (Rank 4)         | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
-| 8675319     | 1006            | Inner Fire (Rank 4)         | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
-| 8675320     | 1006            | Inner Fire (Rank 4)         | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
-| 8675321     | 6066            | Power Word: Shield (Rank 6) | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
-| 8675322     | 6066            | Power Word: Shield (Rank 6) | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
-| 8675323     | 6066            | Power Word: Shield (Rank 6) | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
-| 8675324     | 8362            | Renew                       | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
-| 8675325     | 8362            | Renew                       | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
-| 8675326     | 8362            | Renew                       | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| **New ID** | **Original ID** | **Ability Name** | **Class (Power Type)** | **Power Cost** | **Equivalent Ability** |
+|------------|--------------|----------------|------------------|--------------|-------------------------------|
+| **8675324** | 1006 | **Inner Fire (Rank 4)** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **10 Rage** | **Battle Shout (Warrior)** |
+| **8675325** | 1006 | **Inner Fire (Rank 4)** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **20 Energy** | **Slice and Dice (Rogue)** |
+| **8675326** | 1006 | **Inner Fire (Rank 4)** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **15 RP** | **Horn of Winter (Death Knight)** |
+| **8675327** | 6066 | **Power Word: Shield (Rank 6)** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Shield Block (Warrior)** |
+| **8675328** | 6066 | **Power Word: Shield (Rank 6)** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Feint (Rogue)** |
+| **8675329** | 6066 | **Power Word: Shield (Rank 6)** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Anti-Magic Shell (Death Knight)** |
+| **8675330** | 8362 | **Renew** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **25 Rage** | **Enraged Regeneration (Warrior)** |
+| **8675331** | 8362 | **Renew** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **40 Energy** | **Recuperate (Rogue)** |
+| **8675332** | 8362 | **Renew** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP** | **Death Pact (Death Knight)** |
+| **8675333** | 323267 | **Power of Prayer** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Commanding Shout (Warrior)** |
+| **8675334** | 323267 | **Power of Prayer** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Tricks of the Trade (Rogue)** |
+| **8675335** | 323267 | **Power of Prayer** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Unholy Frenzy (Death Knight)** |
 
----
 
 ### **Cryomancer**  
 **Inspired by:** Twilight Cryomancer  
