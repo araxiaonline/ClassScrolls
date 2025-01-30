@@ -15,18 +15,23 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ## Class Abilities
 
-### **Aquamancer**  
-**Inspired by:** Twilight Aquamancer  
+### **🌊 Aquamancer (Inspired by Twilight Aquamancer)**
 **Item ID:** 500500 *(Aquamancer Scroll)*  
 
-| **New ID**  | **Original ID** | **Ability Name**      | **Class (Power Type)**     |
-|-------------|-----------------|-----------------------|----------------------------|
-| 8675300     | 9672            | Frostbolt            | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
-| 8675301     | 9672            | Frostbolt            | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
-| 8675302     | 9672            | Frostbolt            | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
-| 8675303     | 8372            | Summon Aqua Guardian | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
-| 8675304     | 8372            | Summon Aqua Guardian | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
-| 8675305     | 8372            | Summon Aqua Guardian | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| **New ID** | **Original ID** | **Ability Name** | **Class (Power Type)** | **Power Cost** | **Equivalent Ability** |
+|------------|--------------|----------------|------------------|--------------|-------------------------------|
+| **8675300** | 9672  | **Frostbolt** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **30 Rage** | **Mortal Strike (Warrior)** |
+| **8675301** | 9672  | **Frostbolt** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **45 Energy** | **Mutilate (Rogue)** |
+| **8675302** | 9672  | **Frostbolt** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP** | **Frost Strike (Death Knight)** |
+| **8675303** | 8372  | **Summon Aqua Guardian** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **0 Rage** | **Mirror Image (Mage)** |
+| **8675304** | 8372  | **Summon Aqua Guardian** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **0 Energy** | **Shadow Clone (Rogue, PvE Event)** |
+| **8675305** | 8372  | **Summon Aqua Guardian** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **0 RP** | **Army of the Dead (Death Knight, weaker)** |
+| **8675306** | 71686 | **Water Bolt** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **15 Rage** | **Heroic Strike (Warrior)** |
+| **8675307** | 71686 | **Water Bolt** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **30 Energy** | **Sinister Strike (Rogue)** |
+| **8675308** | 71686 | **Water Bolt** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **25 RP** | **Death Coil (Death Knight, weaker)** |
+| **8675309** | 13586 | **Aqua Jet** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Intercept (Warrior)** |
+| **8675310** | 13586 | **Aqua Jet** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Shadowstep (Rogue)** |
+| **8675311** | 13586 | **Aqua Jet** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Death's Advance (Death Knight, PvP Talent Equivalent)** |
 
 ---
 
