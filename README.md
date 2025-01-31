@@ -36,7 +36,7 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 ---
 
 ### **🌀 Arcanist (Inspired by Ethereal Spellbinders & Arcane-Wielding NPCs)**  
-**Item ID:** 500504 *(Arcanist Scroll)*  
+**Item ID:** 500503 *(Arcanist Scroll)*  
 
 | **New ID** | **Original ID** | **Ability Name** | **Class (Power Type)** | **Power Cost** | **Equivalent Ability** |
 |------------|--------------|----------------|------------------|--------------|-------------------------------|
