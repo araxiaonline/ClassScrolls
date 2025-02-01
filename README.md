@@ -124,16 +124,16 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 |------------|----------------|------------------|------------------------|----------------|------------------------|
 | **8675372** | 4979  | **Quick Flame Ward** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **15 Rage** | **Shield Block (Warrior)** |
 | **8675373** | 4979  | **Quick Flame Ward** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **25 Energy** | **Cloak of Shadows (Rogue)** |
-| **8675374** | 4979  | **Quick Flame Ward** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **20 RP** | **Anti-Magic Shell (DK, fire absorb)** |
-| **8675375** | 5280  | **Razor Mane (Rank 1)** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Enrage (Warrior, with thorns effect)** |
-| **8675376** | 5280  | **Razor Mane (Rank 1)** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Deadly Poison (Rogue, with reflect)** |
-| **8675377** | 5280  | **Razor Mane (Rank 1)** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Blade Barrier (DK, with thorns effect)** |
-| **8675378** | 9532  | **Lightning Bolt** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **25 Rage** | **Heroic Throw (Warrior, nature variant)** |
-| **8675379** | 9532  | **Lightning Bolt** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **40 Energy** | **Shiv (Rogue, nature damage)** |
-| **8675380** | 9532  | **Lightning Bolt** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP** | **Death Coil (DK, nature version)** |
-| **8675381** | 8270  | **Summon Earth Rumbler** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **40 Rage** | **Mirror Image (Mage, earth elemental)** |
-| **8675382** | 8270  | **Summon Earth Rumbler** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **55 Energy** | **Shadow Clone (PvE Rogue Event, with elemental)** |
-| **8675383** | 8270  | **Summon Earth Rumbler** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **50 RP** | **Army of the Dead (DK, single summon variant)** |
+| **8675374** | 4979  | **Quick Flame Ward** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **20 RP** | **Anti-Magic Shell (DK)** |
+| **8675375** | 5280  | **Razor Mane (Rank 1)** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Enrage (Warrior)** |
+| **8675376** | 5280  | **Razor Mane (Rank 1)** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Deadly Poison (Rogue)** |
+| **8675377** | 5280  | **Razor Mane (Rank 1)** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Blade Barrier (DK)** |
+| **8675378** | 9532  | **Lightning Bolt** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **25 Rage** | **Heroic Throw (Warrior)** |
+| **8675379** | 9532  | **Lightning Bolt** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **40 Energy** | **Shiv (Rogue)** |
+| **8675380** | 9532  | **Lightning Bolt** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP** | **Death Coil (DK)** |
+| **8675381** | 8270  | **Summon Earth Rumbler** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **40 Rage** | **Mirror Image (Mage)** |
+| **8675382** | 8270  | **Summon Earth Rumbler** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **55 Energy** | **Shadow Clone (PvE Rogue Event)** |
+| **8675383** | 8270  | **Summon Earth Rumbler** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **50 RP** | **Army of the Dead (DK)** |
 
 ---
 
