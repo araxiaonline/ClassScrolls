@@ -97,7 +97,7 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ---
 
-### **❄️ Cryomancer (Inspired by Frost-Themed NPCs)**  
+### **❄️ Cryomancer (Inspired by Twilight Cryomancer)**  
 **Item ID:** 500506 *(Cryomancer Scroll)*  
 
 | **New ID** | **Original ID** | **Ability Name** | **Class (Power Type)** | **Power Cost** | **Equivalent Ability** |
@@ -117,7 +117,7 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ---
 
-### **🌍 Geomancer (The Geomancer class is inspired by: Grimtotem Geomancer and Razorfen Geomancer)**  
+### **🌍 Geomancer (Inspired by: Grimtotem Geomancer and Razorfen Geomancer)**  
 **Item ID:** 500506 *(Geomancer Scroll)*  
 
 | **New ID** | **Original ID** | **Ability Name** | **Class (Power Type)** | **Power Cost** | **Equivalent Ability** |
@@ -137,7 +137,7 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ---
 
-### **🏹 Harpooner (Inspired by Ranged and Melee Control NPCs)**  
+### **🏹 Harpooner (Inspired by Coilskar Harpooner, Dragonflayer Harpooner, and Tidewalker Harpooner)**  
 **Item ID:** 500507 *(Harpooner Scroll)*  
 
 | **New ID** | **Original ID** | **Ability Name** | **Class (Power Type)** | **Power Cost** | **Equivalent Ability** |
