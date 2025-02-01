@@ -137,6 +137,26 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ---
 
+### **🏹 Harpooner (Inspired by Ranged and Melee Control NPCs)**  
+**Item ID:** 500507 *(Harpooner Scroll)*  
+
+| **New ID** | **Original ID** | **Ability Name** | **Class (Power Type)** | **Power Cost** | **Equivalent Ability** |
+|------------|----------------|------------------|------------------------|----------------|------------------------|
+| **8675384** | 40082  | **Hooked Net** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Intercept (Warrior)** |
+| **8675385** | 40082  | **Hooked Net** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Shadowstep (Rogue)** |
+| **8675386** | 40082  | **Hooked Net** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Death Grip (DK, weaker)** |
+| **8675387** | 11820  | **Electrified Net** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **25 Rage** | **Shockwave (Warrior, with DoT)** |
+| **8675388** | 11820  | **Electrified Net** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **40 Energy** | **Cheap Shot (Rogue, with DoT)** |
+| **8675389** | 11820  | **Electrified Net** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP** | **Chains of Ice (DK, with DoT)** |
+| **8675390** | 43325  | **Oluf's Harpoon** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Heroic Throw (Warrior, with slow)** |
+| **8675391** | 43325  | **Oluf's Harpoon** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Shiv (Rogue, ranged variant)** |
+| **8675392** | 43325  | **Oluf's Harpoon** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Icy Touch (DK, physical damage)** |
+| **8675393** | 38661  | **Net** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **15 Rage** | **Hamstring (Warrior, root variant)** |
+| **8675394** | 38661  | **Net** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **25 Energy** | **Crippling Poison (Rogue, root variant)** |
+| **8675395** | 38661  | **Net** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **20 RP** | **Chains of Ice (DK, root only)** |
+
+---
+
 
 
 
