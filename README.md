@@ -75,6 +75,7 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **8675322** | 37279 | **Rain of Fire** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **45 Energy** | **Fan of Knives (Rogue)** |
 | **8675323** | 37279 | **Rain of Fire** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP** | **Blood Boil (Death Knight)** |
 
+---
 
 ### **💛 Chaplain (Inspired by Scarlet Chaplain)**  
 **Item ID:** 500502 *(Chaplain Scroll)*  
@@ -97,7 +98,7 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 ---
 
 ### **❄️ Cryomancer (Inspired by Frost-Themed NPCs)**  
-**Item ID:** 500503 *(Cryomancer Scroll)*  
+**Item ID:** 500506 *(Cryomancer Scroll)*  
 
 | **New ID** | **Original ID** | **Ability Name** | **Class (Power Type)** | **Power Cost** | **Equivalent Ability** |
 |------------|----------------|------------------|------------------------|----------------|------------------------|
