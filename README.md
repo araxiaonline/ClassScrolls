@@ -145,9 +145,9 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **8675384** | 40082  | **Hooked Net** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Intercept (Warrior)** |
 | **8675385** | 40082  | **Hooked Net** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Shadowstep (Rogue)** |
 | **8675386** | 40082  | **Hooked Net** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Death Grip (DK)** |
-| **8675387** | 11820  | **Electrified Net** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **25 Rage** | **Shockwave (Warrior)** |
-| **8675388** | 11820  | **Electrified Net** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **40 Energy** | **Cheap Shot (Rogue)** |
-| **8675389** | 11820  | **Electrified Net** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP** | **Chains of Ice (DK)** |
+| **8675387** | 5208  | **Poisoned Harpoon** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **25 Rage** | **Shockwave (Warrior)** |
+| **8675388** | 5208  | **Poisoned Harpoon** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **40 Energy** | **Cheap Shot (Rogue)** |
+| **8675389** | 5208  | **Poisoned Harpoon** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP** | **Chains of Ice (DK)** |
 | **8675390** | 43325  | **Oluf's Harpoon** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Heroic Throw (Warrior)** |
 | **8675391** | 43325  | **Oluf's Harpoon** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Shiv (Rogue)** |
 | **8675392** | 43325  | **Oluf's Harpoon** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Icy Touch (DK)** |
