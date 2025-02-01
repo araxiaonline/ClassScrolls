@@ -94,22 +94,25 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **8675334** | 323267 | **Power of Prayer** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Tricks of the Trade (Rogue)** |
 | **8675335** | 323267 | **Power of Prayer** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Unholy Frenzy (Death Knight)** |
 
+---
 
-### **Cryomancer**  
-**Inspired by:** Twilight Cryomancer  
+### **❄️ Cryomancer (Inspired by Frost-Themed NPCs)**  
 **Item ID:** 500503 *(Cryomancer Scroll)*  
 
-| **New ID**  | **Original ID** | **Ability Name**      | **Class (Power Type)**     |
-|-------------|-----------------|-----------------------|----------------------------|
-| 8675327     | 12544           | Frost Armor          | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
-| 8675328     | 12544           | Frost Armor          | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
-| 8675329     | 12544           | Frost Armor          | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
-| 8675330     | 9672            | Frostbolt            | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
-| 8675331     | 9672            | Frostbolt            | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
-| 8675332     | 9672            | Frostbolt            | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
-| 8675333     | 11831           | Frost Nova           | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** |
-| 8675334     | 11831           | Frost Nova           | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** |
-| 8675335     | 11831           | Frost Nova           | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| **New ID** | **Original ID** | **Ability Name** | **Class (Power Type)** | **Power Cost** | **Equivalent Ability** |
+|------------|----------------|------------------|------------------------|----------------|------------------------|
+| **8675360** | 29292 | **Frost Mist** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **25 Rage** | **Thunder Clap (Warrior)** |
+| **8675361** | 29292 | **Frost Mist** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **40 Energy** | **Fan of Knives (Rogue)** |
+| **8675362** | 29292 | **Frost Mist** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Death and Decay (DK)** |
+| **8675363** | 31256 | **Frost Armor** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **10 Rage** | **Battle Shout (Warrior)** |
+| **8675364** | 31256 | **Frost Armor** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **20 Energy** | **Slice and Dice (Rogue)** |
+| **8675365** | 31256 | **Frost Armor** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **15 RP** | **Horn of Winter (DK)** |
+| **8675366** | 36989 | **Frost Nova** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **30 Rage** | **Intimidating Shout (Warrior)** |
+| **8675367** | 36989 | **Frost Nova** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **45 Energy** | **Sap (Rogue, AoE variant)** |
+| **8675368** | 36989 | **Frost Nova** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP** | **Chains of Ice (DK, AoE variant)** |
+| **8675369** | 37865 | **Frost Shock** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Hamstring (Warrior, with damage)** |
+| **8675370** | 37865 | **Frost Shock** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Crippling Poison (Rogue, instant)** |
+| **8675371** | 37865 | **Frost Shock** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Icy Touch (DK)** |
 
 ---
 
