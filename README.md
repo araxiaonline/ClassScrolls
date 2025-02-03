@@ -164,16 +164,16 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 |------------|----------------|------------------|------------------------|----------------|------------------------|
 | **8675396** | 38237 | **Water Nova** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **30 Rage** | **Thunder Clap (Warrior)** |
 | **8675397** | 38237 | **Water Nova** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **45 Energy** | **Fan of Knives (Rogue)** |
-| **8675398** | 38237 | **Water Nova** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP** | **Blood Boil (DK)** |
-| **8675399** | 39878 | **Tidal Burst** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **25 Rage** | **Bladestorm (Warrior)** |
+| **8675398** | 38237 | **Water Nova** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP** | **Blood Boil (Death Knight)** |
+| **8675399** | 39878 | **Tidal Burst** | ![#1E90FF](https://placehold.co/15x15/1E90FF/1E90FF.png) **Druid, Hunter, Mage, Paladin, Priest, Shaman, Warlock (Mana)** | **25 Mana** | **Chain Lightning (Shaman)** |
 | **8675400** | 39878 | **Tidal Burst** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **40 Energy** | **Blade Flurry (Rogue)** |
-| **8675401** | 39878 | **Tidal burst** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP** | **Death and Decay (DK)** |
+| **8675401** | 39878 | **Tidal Burst** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP** | **Death and Decay (Death Knight)** |
 | **8675402** | 38049 | **Watery Grave** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **35 Rage** | **Shockwave (Warrior)** |
 | **8675403** | 38049 | **Watery Grave** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **50 Energy** | **Kidney Shot (Rogue)** |
-| **8675404** | 38049 | **Watery Grave** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP** | **Strangulate (DK)** |
+| **8675404** | 38049 | **Watery Grave** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP** | **Strangulate (Death Knight)** |
 | **8675405** | 54237 | **Water Blast** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Heroic Throw (Warrior)** |
 | **8675406** | 54237 | **Water Blast** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Shiv (Rogue)** |
-| **8675407** | 54237 | **Water Blast** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Icy Touch (DK)** |
+| **8675407** | 54237 | **Water Blast** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Icy Touch (Death Knight)** |
 
 ---
 
