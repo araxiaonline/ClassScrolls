@@ -225,7 +225,7 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **8675420** | 20812          | **Cripple**          | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **10 Rage**          | **Hamstring**                                      |
 | **8675421** | 20812          | **Cripple**          | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **20 Energy**        | **Crippling Poison**                     |
 | **8675422** | 20812          | **Cripple**          | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 Runic Power**   | **Chains of Ice**                                  |
-| **8675423** | 55645          | **Death Plague**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **30 Rage**          | **Bladestorm**                   |
+| **8675423** | 55645          | **Death Plague**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Druid, Hunter, Mage, Paladin, Priest, Shaman, Warlock (Mana)** | **25 Mana** | **Bladestorm**                   |
 | **8675424** | 55645          | **Death Plague**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**        | **Fan of Knives**                                  |
 | **8675425** | 55645          | **Death Plague**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **60 Runic Power**   | **Death and Decay**           |
 | **8675426** | 51431          | **Power Release**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**          | **Heroic Strike / Slam**                           |
