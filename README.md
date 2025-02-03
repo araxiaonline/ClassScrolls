@@ -215,6 +215,25 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **8675418** | 25788          | **Head Butt**      | ![#1E90FF](https://placehold.co/15x15/1E90FF/1E90FF.png) **Druid, Hunter, Mage, Paladin, Priest, Shaman, Warlock (Mana)** | **150 Mana**   | **Hammer of Justice (Paladin), Polymorph (Mage)**          |
 | **8675419** | 25788          | **Head Butt**      | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Gnaw (Death Knight)**                      |
 
+---
+
+### **💀 Necromancer (The Necromancer class is inspired by: Dark Necromancer, Burning Depths Necromancer, and Deatholme Necromancer)**  
+**Item ID:** 500510 *(Necromancer Scroll)*  
+
+| **New ID** | **Original ID** | **Ability Name**     | **Class (Power Type)**                                                        | **Power Cost**       | **Equivalent Ability**                              |
+|------------|----------------|----------------------|-------------------------------------------------------------------------------|----------------------|----------------------------------------------------|
+| **8675420** | 20812          | **Cripple**          | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **10 Rage**          | **Hamstring**                                      |
+| **8675421** | 20812          | **Cripple**          | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **20 Energy**        | **Crippling Poison (Passive)**                     |
+| **8675422** | 20812          | **Cripple**          | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 Runic Power**   | **Chains of Ice**                                  |
+| **8675423** | 34642          | **Death & Decay**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **30 Rage**          | **Bladestorm (Situational AoE)**                   |
+| **8675424** | 34642          | **Death & Decay**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**        | **Fan of Knives**                                  |
+| **8675425** | 34642          | **Death & Decay**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **60 Runic Power**   | **Death and Decay (Death Knight Spell)**           |
+| **8675426** | 51431          | **Power Release**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**          | **Heroic Strike / Slam**                           |
+| **8675427** | 51431          | **Power Release**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**        | **Sinister Strike**                                |
+| **8675428** | 51431          | **Power Release**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 Runic Power**   | **Death Coil**                                     |
+| **8675429** | 8853           | **Summon Skeleton**  | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **30 Rage**          | **Shattering Throw (Utility)**                     |
+| **8675430** | 8853           | **Summon Skeleton**  | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**        | **Distract (Utility Spell)**                       |
+| **8675431** | 8853           | **Summon Skeleton**  | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 Runic Power**   | **Raise Dead**                                     |
 
 
 
