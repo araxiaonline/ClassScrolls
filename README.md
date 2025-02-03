@@ -177,24 +177,23 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ---
 
-### **🥋 Monk (Inspired by Monk Class)**
+### **🥋 Monk (Inspired by Monk class)**
 **Item ID:** 500509 *(Monk Scroll)*  
 
-| **New ID** | **Original ID** | **Ability Name**   | **Class (Power Type)**                                                        | **Power Cost** | **Equivalent Ability**                                     |
-|------------|----------------|--------------------|-------------------------------------------------------------------------------|----------------|-----------------------------------------------------------|
-| **8675408** | 29586          | **Kick**           | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **15 Rage**    | **Pummel (Warrior)**                                       |
-| **8675409** | 29586          | **Kick**           | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **120 Energy** | **Counterspell (Mage), Rebuke (Paladin)**                  |
-| **8675410** | 29586          | **Kick**           | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **20 RP**      | **Mind Freeze (Death Knight)**                             |
-| **8675411** | 56352          | **Storm Punch**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **25 Rage**    | **Heroic Strike (Warrior, with shock effect)**             |
-| **8675412** | 56352          | **Storm Punch**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Sinister Strike (Rogue, with shock effect)**             |
-| **8675413** | 56352          | **Storm Punch**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Death Strike (DK, with shock effect)**                   |
-| **8675414** | 59606          | **Ringing Slap**   | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Shield Slam (Warrior, with sound effect)**               |
-| **8675415** | 59606          | **Ringing Slap**   | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **30 Energy**  | **Backstab (Rogue, sound variant)**                        |
-| **8675416** | 59606          | **Ringing Slap**   | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **25 RP**      | **Plague Strike (DK, sound variant)**                      |
-| **8675417** | 25788          | **Head Butt**      | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **25 Rage**    | **Charge Stun (Warrior)**                                  |
-| **8675418** | 25788          | **Head Butt**      | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **150 Energy** | **Hammer of Justice (Paladin), Polymorph (Mage)**          |
-| **8675419** | 25788          | **Head Butt**      | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Gnaw (DK, stun variant)**                                |
-
+| **New ID** | **Original ID** | **Ability Name**   | **Class (Power Type)**                                                        |
+|------------|----------------|--------------------|-------------------------------------------------------------------------------|
+| **8675408** | 29586          | **Kick**           | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  |
+| **8675409** | 29586          | **Kick**           | ![#1E90FF](https://placehold.co/15x15/1E90FF/1E90FF.png) **Druid, Hunter, Mage, Paladin, Priest, Shaman, Warlock (Mana)** |
+| **8675410** | 29586          | **Kick**           | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| **8675411** | 56352          | **Storm Punch**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  |
+| **8675412** | 56352          | **Storm Punch**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  |
+| **8675413** | 56352          | **Storm Punch**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| **8675414** | 59606          | **Ringing Slap**   | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  |
+| **8675415** | 59606          | **Ringing Slap**   | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  |
+| **8675416** | 59606          | **Ringing Slap**   | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
+| **8675417** | 25788          | **Head Butt**      | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  |
+| **8675418** | 25788          | **Head Butt**      | ![#1E90FF](https://placehold.co/15x15/1E90FF/1E90FF.png) **Druid, Hunter, Mage, Paladin, Priest, Shaman, Warlock (Mana)** |
+| **8675419** | 25788          | **Head Butt**      | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** |
 
 
 
