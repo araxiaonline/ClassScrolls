@@ -175,6 +175,25 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **8675406** | 54237 | **Water Blast** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Shiv (Rogue)** |
 | **8675407** | 54237 | **Water Blast** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Icy Touch (DK)** |
 
+---
+
+### **🥋 Monk (Inspired by Monk)**
+**Item ID:** 500509 *(Monk Scroll)*  
+
+| **New ID** | **Original ID** | **Ability Name** | **Class (Power Type)** | **Power Cost** | **Equivalent Ability** |
+|------------|----------------|------------------|------------------------|----------------|-------------------------|
+| **8675408** | 29586          | **Kick**         | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Monk (Energy)** | **15 Energy**  | **Pummel (Warrior)** |
+| **8675409** | 29586          | **Kick**         | ![#1E90FF](https://placehold.co/15x15/1E90FF/1E90FF.png) **Mana Classes** | **120 Mana**   | **Counterspell (Mage), Rebuke (Paladin)** |
+| **8675410** | 29586          | **Kick**         | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Monk (Energy)** | **20 Energy**  | **Mind Freeze (Death Knight)** |
+| **8675411** | 56352          | **Storm Punch**  | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Monk (Energy)** | **25 Energy**  | **Heroic Strike (Warrior, with shock effect)** |
+| **8675412** | 56352          | **Storm Punch**  | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Monk (Energy)** | **35 Energy**  | **Sinister Strike (Rogue, with shock effect)** |
+| **8675413** | 56352          | **Storm Punch**  | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Monk (Energy)** | **30 Energy**  | **Death Strike (DK, with shock effect)** |
+| **8675414** | 59606          | **Ringing Slap** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Monk (Energy)** | **20 Energy**  | **Shield Slam (Warrior, with sound effect)** |
+| **8675415** | 59606          | **Ringing Slap** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Monk (Energy)** | **30 Energy**  | **Backstab (Rogue, sound variant)** |
+| **8675416** | 59606          | **Ringing Slap** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Monk (Energy)** | **25 Energy**  | **Plague Strike (DK, sound variant)** |
+| **8675417** | 25788          | **Head Butt**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Monk (Energy)** | **25 Energy**  | **Charge Stun (Warrior)** |
+| **8675418** | 25788          | **Head Butt**    | ![#1E90FF](https://placehold.co/15x15/1E90FF/1E90FF.png) **Mana Classes** | **150 Mana**   | **Hammer of Justice (Paladin), Polymorph (Mage)** |
+| **8675419** | 25788          | **Head Butt**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Monk (Energy)** | **30 Energy**  | **Gnaw (DK, stun variant)** |
 
 
 
