@@ -77,6 +77,26 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ---
 
+### **🛡️ Centurion (The Centurion class is inspired by: Illidari Centurion, Eclipsion Centurion, and Crimson Hand Centurion)**  
+**Item ID:** 500505 *(Centurion Scroll)*  
+
+| **New ID** | **Original ID** | **Ability Name**   | **Class (Power Type)**                                                        | **Power Cost** | **Equivalent Ability**                                     |
+|------------|----------------|--------------------|-------------------------------------------------------------------------------|----------------|-----------------------------------------------------------|
+| **8675348** | 37268          | **Arcane Flurry**  | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **30 Rage**    | **Whirlwind (Warrior)**                                    |
+| **8675349** | 37268          | **Arcane Flurry**  | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **50 Energy**  | **Blade Flurry (Rogue)**                                   |
+| **8675350** | 37268          | **Arcane Flurry**  | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP**      | **Howling Blast (Death Knight)**                           |
+| **8675351** | 36476          | **Blood Heal**     | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **30 Rage**    | **Enraged Regeneration (Warrior)**                         |
+| **8675352** | 36476          | **Blood Heal**     | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **45 Energy**  | **Crimson Vial (Rogue)**                                   |
+| **8675353** | 36476          | **Blood Heal**     | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP**      | **Death Pact (Death Knight)**                              |
+| **8675354** | 35871          | **Spellbreaker**   | ![#1E90FF](https://placehold.co/15x15/1E90FF/1E90FF.png) **Druid, Hunter, Mage, Paladin, Priest, Shaman, Warlock (Mana)** | **25 Mana**    | **Spell Reflection (Warrior), Purge (Shaman)**             |
+| **8675355** | 35871          | **Spellbreaker**   | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**  | **Kick (Rogue)**                                           |
+| **8675356** | 35871          | **Spellbreaker**   | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Anti-Magic Shell (Death Knight)**                        |
+| **8675357** | 41168          | **Sonic Strike**   | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **35 Rage**    | **Thunder Clap (Warrior)**                                 |
+| **8675358** | 41168          | **Sonic Strike**   | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **50 Energy**  | **Fan of Knives (Rogue)**                                  |
+| **8675359** | 41168          | **Sonic Strike**   | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP**      | **Blood Boil (Death Knight)**                              |
+
+---
+
 ### **💛 Chaplain (Inspired by Scarlet Chaplain)**  
 **Item ID:** 500502 *(Chaplain Scroll)*  
 
