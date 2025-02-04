@@ -235,6 +235,7 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **8675430** | 8853           | **Summon Skeleton**  | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**        | **Distract**                       |
 | **8675431** | 8853           | **Summon Skeleton**  | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 Runic Power**   | **Raise Dead**                                     |
 
+---
 
 
 
@@ -249,19 +250,21 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 
 
+### **Remaining Classes (Full)**  
 
-### Remaining Classes (Full)  
-Nethermancer
-Pyromancer
-Shadowmancer
-Siren
-Soothsayer
-Surveyor
-Task Master (Maybe???)
-Time bender
-Venomancer
-Wavecaller (Maybe??)
-Witch Doctor
+| **Class NAME**         |
+|------------------------|
+| **Nethermancer**        |
+| **Pyromancer**          |
+| **Shadowmancer**        |
+| **Siren**               |
+| **Soothsayer**          |
+| **Surveyor**            |
+| **Task Master** *(Maybe??)* |
+| **Time Bender**         |
+| **Venomancer**          |
+| **Wavecaller** *(Maybe??)* |
+| **Witch Doctor**        |
 
 
 
