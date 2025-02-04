@@ -248,8 +248,21 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 
 
+
+
 ### Remaining Classes (Full)  
-I will continue this for **Geomancer**, **Harpooner**, **Hydromancer**, **Necromancer**, **Nethermancer**, **Pyromancer**, **Shadowmancer**, **Siren**, and **Wavecaller**. 
+Nethermancer
+Pyromancer
+Shadowmancer
+Siren
+Soothsayer
+Surveyor
+Task Master (Maybe???)
+Time bender
+Venomancer
+Wavecaller (Maybe??)
+Witch Doctor
+
 
 
 ### **Power Types**
