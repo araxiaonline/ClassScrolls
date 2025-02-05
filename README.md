@@ -237,6 +237,43 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ---
 
+### **🌌 Nethermancer (The Nethermancer class is inspired by: Ethereal Nethermancer and Sunfury Nethermancer)**  
+**Item ID:** 500511 *(Nethermancer Scroll)*  
+
+| **New ID** | **Original ID** | **Ability Name**       | **Class (Power Type)**                                                        | **Power Cost** | **Equivalent Ability**          |
+|------------|----------------|------------------------|-------------------------------------------------------------------------------|----------------|---------------------------------|
+| **8675432** | 35778          | **Bloodcrystal Surge** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **30 Rage**    | **Bloodthirst (Warrior)**       |
+| **8675433** | 35778          | **Bloodcrystal Surge** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Eviscerate (Rogue)**          |
+| **8675434** | 35778          | **Bloodcrystal Surge** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP**      | **Heart Strike (Death Knight)** |
+| **8675435** | 17173          | **Drain Life**         | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Victory Rush (Warrior)**      |
+| **8675436** | 17173          | **Drain Life**         | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **30 Energy**  | **Leeching Poison (Rogue)**     |
+| **8675437** | 17173          | **Drain Life**         | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP**      | **Death Strike (Death Knight)** |
+| **8675438** | 35334          | **Nether Shock**       | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **15 Rage**    | **Heroic Strike (Warrior)**     |
+| **8675439** | 35334          | **Nether Shock**       | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **20 Energy**  | **Shiv (Rogue)**                |
+| **8675440** | 35334          | **Nether Shock**       | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP**      | **Death Coil (Death Knight)**   |
+| **8675441** | 36631          | **Netherbreath**       | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **30 Rage**    | **Cleave (Warrior)**            |
+| **8675442** | 36631          | **Netherbreath**       | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Fan of Knives (Rogue)**       |
+| **8675443** | 36631          | **Netherbreath**       | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Howling Blast (Death Knight)** |
+
+---
+
+### **🔥 Pyromancer (The Pyromancer class is inspired by: Firebrand Pyromancer and Sunhawk Pyromancer)**  
+**Item ID:** 500512 *(Pyromancer Scroll)*  
+
+| **New ID** | **Original ID** | **Ability Name**         | **Class (Power Type)**                                                        | **Power Cost** | **Equivalent Ability**             |
+|------------|----------------|--------------------------|-------------------------------------------------------------------------------|----------------|------------------------------------|
+| **8675444** | 37986          | **Ancient Fire**         | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **25 Rage**    | **Mortal Strike (Warrior)**        |
+| **8675445** | 37986          | **Ancient Fire**         | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**  | **Envenom (Rogue)**                |
+| **8675446** | 37986          | **Ancient Fire**         | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **45 RP**      | **Obliterate (Death Knight)**      |
+| **8675447** | 15096          | **Flame Shock**          | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **10 Rage**    | **Thunder Clap (Warrior)**         |
+| **8675448** | 15096          | **Flame Shock**          | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **30 Energy**  | **Garrote (Rogue)**                |
+| **8675449** | 15096          | **Flame Shock**          | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **20 RP**      | **Frost Fever (Death Knight)**     |
+| **8675450** | 15128          | **Mark of Flames**       | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **15 Rage**    | **Sunder Armor (Warrior)**         |
+| **8675451** | 15128          | **Mark of Flames**       | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **25 Energy**  | **Expose Armor (Rogue)**           |
+| **8675452** | 15128          | **Mark of Flames**       | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **20 RP**      | **Mark of Blood (Death Knight)**   |
+| **8675453** | 63774          | **Summon Fire Elemental**| ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **35 Rage**    | **Shattering Throw (Warrior)**     |
+| **8675454** | 63774          | **Summon Fire Elemental**| ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**  | **Distract (Rogue)**               |
+| **8675455** | 63774          | **Summon Fire Elemental**| ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Raise Dead (Death Knight)**      |
 
 
 
