@@ -295,6 +295,45 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **8675466** | 33846          | **Shadow Nova**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**  | **Fan of Knives (Rogue)**            |
 | **8675467** | 33846          | **Shadow Nova**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **45 RP**      | **Howling Blast (Death Knight)**     |
 
+---
+
+### **🎶 Siren (The Siren class is inspired by: Coilskar Siren, Daggerspine Siren, and Death Siren)**  
+**Item ID:** 500514 *(Siren Scroll)*  
+
+| **New ID** | **Original ID** | **Ability Name**      | **Class (Power Type)**                                                        | **Power Cost** | **Equivalent Ability**               |
+|------------|----------------|----------------------|-------------------------------------------------------------------------------|----------------|--------------------------------------|
+| **8675468** | 29505          | **Banshee Shriek**   | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **25 Rage**    | **Intimidating Shout (Warrior)**     |
+| **8675469** | 29505          | **Banshee Shriek**   | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Blind (Rogue)**                    |
+| **8675470** | 29505          | **Banshee Shriek**   | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP**      | **Strangulate (Death Knight)**       |
+| **8675471** | 15535          | **Enveloping Winds** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Hamstring (Warrior)**              |
+| **8675472** | 15535          | **Enveloping Winds** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Sap (Rogue)**                      |
+| **8675473** | 15535          | **Enveloping Winds** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP**      | **Chains of Ice (Death Knight)**     |
+| **8675474** | 16243          | **Ribbon of Souls**  | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **25 Rage**    | **Mortal Strike (Warrior)**          |
+| **8675475** | 16243          | **Ribbon of Souls**  | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**  | **Envenom (Rogue)**                  |
+| **8675476** | 16243          | **Ribbon of Souls**  | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **45 RP**      | **Death Coil (Death Knight)**        |
+| **8675477** | 38026          | **Viscous Shield**   | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Shield Block (Warrior)**           |
+| **8675478** | 38026          | **Viscous Shield**   | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **30 Energy**  | **Evasion (Rogue)**                  |
+| **8675479** | 38026          | **Viscous Shield**   | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Anti-Magic Barrier (Death Knight)** |
+
+---
+
+### **🔮 Soothsayer (The Soothsayer class is inspired by: Ancient Drakkari Soothsayer, Coilfang Soothsayer, and Coilskar Soothsayer)**  
+**Item ID:** 500515 *(Soothsayer Scroll)*  
+
+| **New ID** | **Original ID** | **Ability Name**     | **Class (Power Type)**                                                        | **Power Cost** | **Equivalent Ability**               |
+|------------|----------------|----------------------|-------------------------------------------------------------------------------|----------------|--------------------------------------|
+| **8675480** | 5514           | **Darkened Vision**  | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **15 Rage**    | **Demoralizing Shout (Warrior)**     |
+| **8675481** | 5514           | **Darkened Vision**  | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **30 Energy**  | **Garrote (Rogue)**                  |
+| **8675482** | 5514           | **Darkened Vision**  | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP**      | **Blood Plague (Death Knight)**      |
+| **8675483** | 16587          | **Dark Whispers**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Taunt (Warrior)**                  |
+| **8675484** | 16587          | **Dark Whispers**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Distract (Rogue)**                 |
+| **8675485** | 16587          | **Dark Whispers**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **20 RP**      | **Mind Freeze (Death Knight)**       |
+| **8675486** | 34800          | **Impending Coma**   | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **25 Rage**    | **Thunder Clap (Warrior)**           |
+| **8675487** | 34800          | **Impending Coma**   | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Kidney Shot (Rogue)**              |
+| **8675488** | 34800          | **Impending Coma**   | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **50 RP**      | **Asphyxiate (Death Knight)**        |
+| **8675489** | 51020          | **Time Lapse**       | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **30 Rage**    | **Spell Reflection (Warrior)**       |
+| **8675490** | 51020          | **Time Lapse**       | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**  | **Cloak of Shadows (Rogue)**         |
+| **8675491** | 51020          | **Time Lapse**       | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP**      | **Anti-Magic Shell (Death Knight)**  |
 
 
 
