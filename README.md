@@ -275,6 +275,25 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **8675454** | 63774          | **Summon Fire Elemental**| ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**  | **Distract (Rogue)**               |
 | **8675455** | 63774          | **Summon Fire Elemental**| ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Raise Dead (Death Knight)**      |
 
+---
+
+### **🌑 Shadowmancer (The Shadowmancer class is inspired by: Dark Conclave Shadowmancer)**  
+**Item ID:** 500513 *(Shadowmancer Scroll)*  
+
+| **New ID** | **Original ID** | **Ability Name**   | **Class (Power Type)**                                                        | **Power Cost** | **Equivalent Ability**               |
+|------------|----------------|--------------------|-------------------------------------------------------------------------------|----------------|--------------------------------------|
+| **8675456** | 19775          | **Dark Mending**   | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Enraged Regeneration (Warrior)**   |
+| **8675457** | 19775          | **Dark Mending**   | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **30 Energy**  | **Crimson Vial (Rogue)**             |
+| **8675458** | 19775          | **Dark Mending**   | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP**      | **Death Pact (Death Knight)**        |
+| **8675459** | 38085          | **Shadow Blast**   | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Heroic Strike (Warrior)**          |
+| **8675460** | 38085          | **Shadow Blast**   | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **30 Energy**  | **Shiv (Rogue)**                     |
+| **8675461** | 38085          | **Shadow Blast**   | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP**      | **Death Coil (Death Knight)**        |
+| **8675462** | 38379          | **Shadowguard**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **15 Rage**    | **Shield Block (Warrior)**           |
+| **8675463** | 38379          | **Shadowguard**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Evasion (Rogue)**                  |
+| **8675464** | 38379          | **Shadowguard**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **20 RP**      | **Anti-Magic Shell (Death Knight)**  |
+| **8675465** | 33846          | **Shadow Nova**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **25 Rage**    | **Thunder Clap (Warrior)**           |
+| **8675466** | 33846          | **Shadow Nova**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**  | **Fan of Knives (Rogue)**            |
+| **8675467** | 33846          | **Shadow Nova**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **45 RP**      | **Howling Blast (Death Knight)**     |
 
 
 
