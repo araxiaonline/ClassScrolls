@@ -372,6 +372,25 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **8675502** | 40835          | **Stasis Field**     | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Smoke Bomb (Rogue)**              |
 | **8675503** | 40835          | **Stasis Field**     | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **50 RP**      | **Icebound Fortitude (Death Knight)** |
 
+---
+
+### **⏳ Time Bender (The Time Bender class is inspired by: Time Mage from Final Fantasy Tactics)**  
+**Item ID:** 500517 *(Time Bender Scroll)*  
+
+| **New ID** | **Original ID** | **Ability Name**  | **Class (Power Type)**                                                        | **Power Cost** | **Equivalent Ability**            |
+|------------|----------------|------------------|-------------------------------------------------------------------------------|----------------|----------------------------------|
+| **8675504** | 34186          | **Haste Other**  | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **10 Rage**    | **Commanding Shout (Warrior)**   |
+| **8675505** | 34186          | **Haste Other**  | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **25 Energy**  | **Sprint (Rogue)**               |
+| **8675506** | 34186          | **Haste Other**  | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **10 RP**      | **Unholy Frenzy (Death Knight)**  |
+| **8675507** | 6146           | **Slow**         | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **15 Rage**    | **Piercing Howl (Warrior)**       |
+| **8675508** | 6146           | **Slow**         | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **20 Energy**  | **Crippling Poison (Rogue)**      |
+| **8675509** | 6146           | **Slow**         | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Chains of Ice (Death Knight)**  |
+| **8675510** | 60076          | **Time Shock**   | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Thunder Clap (Warrior)**        |
+| **8675511** | 60076          | **Time Shock**   | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Cheap Shot (Rogue)**            |
+| **8675512** | 60076          | **Time Shock**   | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP**      | **Death Coil (Death Knight)**     |
+| **8675513** | 47736          | **Time Stop**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **30 Rage**    | **Shield Wall (Warrior)**         |
+| **8675514** | 47736          | **Time Stop**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Vanish (Rogue)**                |
+| **8675515** | 47736          | **Time Stop**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **50 RP**      | **Icebound Fortitude (Death Knight)** |
 
 
 
