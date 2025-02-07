@@ -2,6 +2,23 @@
 
 This repository contains the class scroll designs and spell modifications for a **Azerothcore WOTLK 3.3.5**. Each class is inspired by existing NPC archetypes and includes a set of unique abilities adapted to work for different power types: **Rage**, **Energy**, and **Runic Power**.
 
+### **Power Types**
+
+| **Power Type**   | **Value** |  
+|-------------------|-----------|  
+| Mana             | `0`       |  
+| Rage             | `1`       |  
+| Energy           | `3`       |  
+| Runic Power      | `6`       |  
+
+To apply these power types, update the `PowerType` column in `Spell.dbc` for each spell.
+
+---
+
+## Notes
+- All spell IDs start from `8675300` to avoid conflict with Blizzard's default IDs.
+- For questions or collaboration, feel free to contribute or open an issue!
+
 ---
 
 ## Overview
@@ -335,6 +352,26 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **8675490** | 51020          | **Time Lapse**       | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**  | **Cloak of Shadows (Rogue)**         |
 | **8675491** | 51020          | **Time Lapse**       | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP**      | **Anti-Magic Shell (Death Knight)**  |
 
+---
+
+### **🔍 Surveyor (The Surveyor class is inspired by: Bash'ir Surveyor, Blood Elf Surveyor, and Gravelsnout Surveyor)**  
+**Item ID:** 500516 *(Surveyor Scroll)*  
+
+| **New ID** | **Original ID** | **Ability Name**     | **Class (Power Type)**                                                        | **Power Cost** | **Equivalent Ability**               |
+|------------|----------------|----------------------|-------------------------------------------------------------------------------|----------------|--------------------------------------|
+| **8675492** | 60318          | **Edward's Insight** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **10 Rage**    | **Commanding Shout (Warrior)**       |
+| **8675493** | 60318          | **Edward's Insight** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **25 Energy**  | **Premeditation (Rogue)**           |
+| **8675494** | 60318          | **Edward's Insight** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **10 RP**      | **Blood Tap (Death Knight)**        |
+| **8675495** | 20717          | **Sand Breath**      | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Demoralizing Shout (Warrior)**     |
+| **8675496** | 20717          | **Sand Breath**      | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **30 Energy**  | **Garrote (Rogue)**                 |
+| **8675497** | 20717          | **Sand Breath**      | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Death Coil (Death Knight)**       |
+| **8675498** | 54311          | **Crypt Scarabs**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **30 Rage**    | **Sweeping Strikes (Warrior)**       |
+| **8675499** | 54311          | **Crypt Scarabs**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**  | **Fan of Knives (Rogue)**           |
+| **8675500** | 54311          | **Crypt Scarabs**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **50 RP**      | **Army of the Dead (Death Knight)** |
+| **8675501** | 40835          | **Stasis Field**     | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **25 Rage**    | **Shield Wall (Warrior)**           |
+| **8675502** | 40835          | **Stasis Field**     | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Smoke Bomb (Rogue)**              |
+| **8675503** | 40835          | **Stasis Field**     | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **50 RP**      | **Icebound Fortitude (Death Knight)** |
+
 
 
 
@@ -349,34 +386,19 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 | **Class NAME**         |
 |------------------------|
-| **Nethermancer**        |
-| **Pyromancer**          |
-| **Shadowmancer**        |
-| **Siren**               |
-| **Soothsayer**          |
-| **Surveyor**            |
-| **Task Master** *(Maybe??)* |
 | **Time Bender**         |
 | **Venomancer**          |
-| **Wavecaller** *(Maybe??)* |
 | **Witch Doctor**        |
+| MAYBE CLASSES |
+| Web Weaver |
+| Wavecaller |
+| Taskmaster |
+| Evoker |
+| Conjurer |
+| Mystic |
+| Tunneler |
 
 
 
-### **Power Types**
 
-| **Power Type**   | **Value** |  
-|-------------------|-----------|  
-| Mana             | `0`       |  
-| Rage             | `1`       |  
-| Energy           | `3`       |  
-| Runic Power      | `6`       |  
-
-To apply these power types, update the `PowerType` column in `Spell.dbc` for each spell.
-
----
-
-## Notes
-- All spell IDs start from `8675300` to avoid conflict with Blizzard's default IDs.
-- For questions or collaboration, feel free to contribute or open an issue!
 
