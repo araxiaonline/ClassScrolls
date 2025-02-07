@@ -22,7 +22,7 @@ To apply these power types, update the `PowerType` column in `Spell.dbc` for eac
 ---
 
 ## Overview
-- **Number of Classes**: 13
+- **Number of Classes**: 20
 - **Number of Abilities**: 45+
 - **Power Types**: Rage (`1`), Energy (`3`), Runic Power (`6`)
 
