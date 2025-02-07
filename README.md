@@ -389,7 +389,9 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **Time Bender**         |
 | **Venomancer**          |
 | **Witch Doctor**        |
-| MAYBE CLASSES |
+---
+
+| **MAYBE CLASSES** |
 | Web Weaver |
 | Wavecaller |
 | Taskmaster |
