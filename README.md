@@ -114,23 +114,23 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ---
 
-### **💛 Chaplain (Inspired by Scarlet Chaplain)**  
-**Item ID:** 500502 *(Chaplain Scroll)*  
+### **⛪ Chaplain (The Chaplain class is inspired by: Scarlet Chaplain)**  
+**Item ID:** 500503 *(Chaplain Scroll)*  
 
-| **New ID** | **Original ID** | **Ability Name** | **Class (Power Type)** | **Power Cost** | **Equivalent Ability** |
-|------------|--------------|----------------|------------------|--------------|-------------------------------|
-| **8675324** | 1006 | **Inner Fire (Rank 4)** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **10 Rage** | **Battle Shout (Warrior)** |
-| **8675325** | 1006 | **Inner Fire (Rank 4)** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **20 Energy** | **Slice and Dice (Rogue)** |
-| **8675326** | 1006 | **Inner Fire (Rank 4)** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **15 RP** | **Horn of Winter (Death Knight)** |
-| **8675327** | 6066 | **Power Word: Shield (Rank 6)** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Shield Block (Warrior)** |
-| **8675328** | 6066 | **Power Word: Shield (Rank 6)** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Feint (Rogue)** |
-| **8675329** | 6066 | **Power Word: Shield (Rank 6)** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Anti-Magic Shell (Death Knight)** |
-| **8675330** | 8362 | **Renew** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **25 Rage** | **Enraged Regeneration (Warrior)** |
-| **8675331** | 8362 | **Renew** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **40 Energy** | **Recuperate (Rogue)** |
-| **8675332** | 8362 | **Renew** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP** | **Death Pact (Death Knight)** |
-| **8675333** | 323267 | **Power of Prayer** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Commanding Shout (Warrior)** |
-| **8675334** | 323267 | **Power of Prayer** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Tricks of the Trade (Rogue)** |
-| **8675335** | 323267 | **Power of Prayer** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Unholy Frenzy (Death Knight)** |
+| **New ID** | **Original ID** | **Ability Name**          | **Class (Power Type)**                                                        | **Power Cost** | **Equivalent Ability**               |
+|------------|----------------|--------------------------|-------------------------------------------------------------------------------|----------------|--------------------------------------|
+| **8675324** | 38838          | **Holy Bolt Volley**     | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **15 Rage**    | **Heroic Throw (Warrior)**         |
+| **8675325** | 38838          | **Holy Bolt Volley**     | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Shuriken Toss (Rogue)**          |
+| **8675326** | 38838          | **Holy Bolt Volley**     | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **20 RP**      | **Death Coil (Death Knight)**      |
+| **8675327** | 64713          | **Flame of the Heavens** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Thunder Clap (Warrior)**         |
+| **8675328** | 64713          | **Flame of the Heavens** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Fan of Knives (Rogue)**          |
+| **8675329** | 64713          | **Flame of the Heavens** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Blood Boil (Death Knight)**      |
+| **8675330** | 8362           | **Renew**               | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **25 Rage**    | **Enraged Regeneration (Warrior)**  |
+| **8675331** | 8362           | **Renew**               | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**  | **Crimson Vial (Rogue)**           |
+| **8675332** | 8362           | **Renew**               | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP**      | **Death Pact (Death Knight)**      |
+| **8675333** | 323267         | **Power of Prayer**     | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Commanding Shout (Warrior)**      |
+| **8675334** | 323267         | **Power of Prayer**     | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Premeditation (Rogue)**           |
+| **8675335** | 323267         | **Power of Prayer**     | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Horn of Winter (Death Knight)**  |
 
 ---
 
