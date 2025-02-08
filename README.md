@@ -392,6 +392,27 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 | **8675514** | 47736          | **Time Stop**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Vanish (Rogue)**                |
 | **8675515** | 47736          | **Time Stop**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **50 RP**      | **Icebound Fortitude (Death Knight)** |
 
+---
+
+### **☠️ Venomancer (The Venomancer class is inspired by: Venomancer from DOTA 2)**  
+**Item ID:** 500518 *(Venomancer Scroll)*  
+
+| **New ID** | **Original ID** | **Ability Name**      | **Class (Power Type)**                                                        | **Power Cost** | **Equivalent Ability**               |
+|------------|----------------|----------------------|-------------------------------------------------------------------------------|----------------|--------------------------------------|
+| **8675516** | 30917          | **Poison Bolt**      | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **15 Rage**    | **Heroic Throw (Warrior)**          |
+| **8675517** | 30917          | **Poison Bolt**      | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Shiv (Rogue)**                    |
+| **8675518** | 30917          | **Poison Bolt**      | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP**      | **Death Coil (Death Knight)**       |
+| **8675519** | 39027          | **Poison Shield**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Shield Block (Warrior)**           |
+| **8675520** | 39027          | **Poison Shield**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Evasion (Rogue)**                  |
+| **8675521** | 39027          | **Poison Shield**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Anti-Magic Shell (Death Knight)**  |
+| **8675522** | 30822          | **Poisoned Thrust**  | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Rend (Warrior)**                   |
+| **8675523** | 30822          | **Poisoned Thrust**  | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **30 Energy**  | **Mutilate (Rogue)**                 |
+| **8675524** | 30822          | **Poisoned Thrust**  | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP**      | **Plague Strike (Death Knight)**     |
+| **8675525** | 31288          | **Leech Poison**     | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **25 Rage**    | **Bloodthirst (Warrior)**            |
+| **8675526** | 31288          | **Leech Poison**     | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**  | **Leeching Poison (Rogue)**          |
+| **8675527** | 31288          | **Leech Poison**     | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **50 RP**      | **Death Strike (Death Knight)**      |
+
+---
 
 
 
