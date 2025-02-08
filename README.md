@@ -414,6 +414,23 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ---
 
+### **🪄 Witch Doctor (The Witch Doctor class is inspired by: Witch Doctor NPCs)**  
+**Item ID:** 500519 *(Witch Doctor Scroll)*  
+
+| **New ID** | **Original ID** | **Ability Name**     | **Class (Power Type)**                                                        | **Power Cost** | **Equivalent Ability**              |
+|------------|----------------|----------------------|-------------------------------------------------------------------------------|----------------|-------------------------------------|
+| **8675528** | 11641          | **Hex**             | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **10 Rage**    | **Intimidating Shout (Warrior)**   |
+| **8675529** | 11641          | **Hex**             | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **25 Energy**  | **Blind (Rogue)**                   |
+| **8675530** | 11641          | **Hex**             | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Strangulate (Death Knight)**     |
+| **8675531** | 11899          | **Healing Ward**     | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Enraged Regeneration (Warrior)**  |
+| **8675532** | 11899          | **Healing Ward**     | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **30 Energy**  | **Crimson Vial (Rogue)**            |
+| **8675533** | 11899          | **Healing Ward**     | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **35 RP**      | **Death Pact (Death Knight)**      |
+| **8675534** | 3827           | **Ward of Laze**     | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **25 Rage**    | **Shield Block (Warrior)**          |
+| **8675535** | 3827           | **Ward of Laze**     | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Evasion (Rogue)**                 |
+| **8675536** | 3827           | **Ward of Laze**     | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP**      | **Anti-Magic Shell (Death Knight)** |
+| **8675537** | 52695          | **Voodoo Doll**      | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **30 Rage**    | **Demoralizing Shout (Warrior)**    |
+| **8675538** | 52695          | **Voodoo Doll**      | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**  | **Distract (Rogue)**                |
+| **8675539** | 52695          | **Voodoo Doll**      | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **50 RP**      | **Blood Boil (Death Knight)**       |
 
 
 
@@ -422,16 +439,11 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 
 
-### **Remaining Classes (Full)**  
+### **Potential Classes (Full)**  
 
 | **Class NAME**         |
 |------------------------|
-| **Venomancer**          |
-| **Witch Doctor**        |
----
 
-| **MAYBE CLASSES** |
-|------------------------|
 | Web Weaver |
 | Wavecaller |
 | Taskmaster |
