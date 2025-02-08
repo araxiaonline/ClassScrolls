@@ -134,23 +134,24 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ---
 
-### **❄️ Cryomancer (Inspired by Twilight Cryomancer)**  
-**Item ID:** 500506 *(Cryomancer Scroll)*  
+### **❄️ Cryomancer (The Cryomancer class is inspired by: Twilight Cryomancer)**  
+**Item ID:** 500505 *(Cryomancer Scroll)*  
 
-| **New ID** | **Original ID** | **Ability Name** | **Class (Power Type)** | **Power Cost** | **Equivalent Ability** |
-|------------|----------------|------------------|------------------------|----------------|------------------------|
-| **8675360** | 29292 | **Frost Mist** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **25 Rage** | **Thunder Clap (Warrior)** |
-| **8675361** | 29292 | **Frost Mist** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **40 Energy** | **Fan of Knives (Rogue)** |
-| **8675362** | 29292 | **Frost Mist** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Death and Decay (DK)** |
-| **8675363** | 31256 | **Frost Armor** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **10 Rage** | **Battle Shout (Warrior)** |
-| **8675364** | 31256 | **Frost Armor** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **20 Energy** | **Slice and Dice (Rogue)** |
-| **8675365** | 31256 | **Frost Armor** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **15 RP** | **Horn of Winter (DK)** |
-| **8675366** | 36989 | **Frost Nova** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **30 Rage** | **Intimidating Shout (Warrior)** |
-| **8675367** | 36989 | **Frost Nova** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **45 Energy** | **Sap (Rogue)** |
-| **8675368** | 36989 | **Frost Nova** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP** | **Chains of Ice (DK)** |
-| **8675369** | 37865 | **Frost Shock** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **20 Rage** | **Hamstring (Warrior)** |
-| **8675370** | 37865 | **Frost Shock** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **35 Energy** | **Crippling Poison (Rogue,)** |
-| **8675371** | 37865 | **Frost Shock** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP** | **Icy Touch (DK)** |
+| **New ID** | **Original ID** | **Ability Name**  | **Class (Power Type)**                                                        | **Power Cost** | **Equivalent Ability**               |
+|------------|----------------|------------------|-------------------------------------------------------------------------------|----------------|--------------------------------------|
+| **8675360** | 29292          | **Frost Mist**   | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **25 Rage**    | **Thunder Clap (Warrior)**          |
+| **8675361** | 29292          | **Frost Mist**   | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **40 Energy**  | **Fan of Knives (Rogue)**           |
+| **8675362** | 29292          | **Frost Mist**   | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Howling Blast (Death Knight)**    |
+| **8675363** | 61572          | **Frostbite**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **10 Rage**    | **Hamstring (Warrior)**             |
+| **8675364** | 61572          | **Frostbite**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **20 Energy**  | **Crippling Poison (Rogue)**        |
+| **8675365** | 61572          | **Frostbite**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **15 RP**      | **Chains of Ice (Death Knight)**    |
+| **8675366** | 36989          | **Frost Nova**   | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **30 Rage**    | **Shockwave (Warrior)**             |
+| **8675367** | 36989          | **Frost Nova**   | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **45 Energy**  | **Kidney Shot (Rogue)**             |
+| **8675368** | 36989          | **Frost Nova**   | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP**      | **Hungering Cold (Death Knight)**   |
+| **8675369** | 37865          | **Frost Shock**  | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **20 Rage**    | **Mortal Strike (Warrior)**         |
+| **8675370** | 37865          | **Frost Shock**  | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **35 Energy**  | **Mutilate (Rogue)**                |
+| **8675371** | 37865          | **Frost Shock**  | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **30 RP**      | **Death Strike (Death Knight)**     |
+
 
 ---
 
