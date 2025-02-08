@@ -52,23 +52,23 @@ Each ability has been assigned new spell IDs starting from `8675300` for ease of
 
 ---
 
-### **🌀 Arcanist (Inspired by Ethereal Spellbinders & Arcane-Wielding NPCs)**  
-**Item ID:** 500503 *(Arcanist Scroll)*  
+### **🔮 Arcanist (The Arcanist class is inspired by: Bash'ir Arcanist & Der'izu Arcanist)**  
+**Item ID:** 500504 *(Arcanist Scroll)*  
 
-| **New ID** | **Original ID** | **Ability Name** | **Class (Power Type)** | **Power Cost** | **Equivalent Ability** |
-|------------|--------------|----------------|------------------|--------------|-------------------------------|
-| **8675336** | 33832 | **Arcane Missiles** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **30 Rage** | **Mortal Strike (Warrior, ranged channeled equivalent)** |
-| **8675337** | 33832 | **Arcane Missiles** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **50 Energy** | **Eviscerate (Rogue, Arcane version)** |
-| **8675338** | 33832 | **Arcane Missiles** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **45 RP** | **Frost Strike (Death Knight, magic burst equivalent)** |
-| **8675339** | 36508 | **Energy Surge** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **10 Rage** | **Bloodrage (Warrior, generates Rage)** |
-| **8675340** | 36508 | **Energy Surge** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **20 Energy** | **Thistle Tea (Rogue, restores Energy)** |
-| **8675341** | 36508 | **Energy Surge** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **15 RP** | **Runic Empowerment (Death Knight, restores RP)** |
-| **8675342** | 39039 | **Force Blast** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **30 Rage** | **Thunder Clap (Warrior, knockback equivalent)** |
-| **8675343** | 39039 | **Force Blast** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **45 Energy** | **Kidney Shot (Rogue, stun/knockback equivalent)** |
-| **8675344** | 39039 | **Force Blast** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP** | **Death Grip (Death Knight, inverse knockback effect)** |
-| **8675345** | 32936 | **Der'izu Forces** | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)** | **35 Rage** | **Sweeping Strikes (Warrior, AoE magic version)** |
-| **8675346** | 32936 | **Der'izu Forces** | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)** | **50 Energy** | **Shadow Clone (Rogue, summons illusionary copies)** |
-| **8675347** | 32936 | **Der'izu Forces** | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **45 RP** | **Army of the Dead (Death Knight, summon effect)** |
+| **New ID** | **Original ID** | **Ability Name**     | **Class (Power Type)**                                                        | **Power Cost** | **Equivalent Ability**              |
+|------------|----------------|----------------------|-------------------------------------------------------------------------------|----------------|-------------------------------------|
+| **8675336** | 51787          | **Mystical Bolt**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **30 Rage**    | **Heroic Throw (Warrior)**         |
+| **8675337** | 51787          | **Mystical Bolt**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **50 Energy**  | **Shuriken Toss (Rogue)**          |
+| **8675338** | 51787          | **Mystical Bolt**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **45 RP**      | **Death Coil (Death Knight)**      |
+| **8675339** | 60903          | **Arcane Breath**    | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **10 Rage**    | **Demoralizing Shout (Warrior)**   |
+| **8675340** | 60903          | **Arcane Breath**    | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **20 Energy**  | **Garrote (Rogue)**                |
+| **8675341** | 60903          | **Arcane Breath**    | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **15 RP**      | **Blood Plague (Death Knight)**    |
+| **8675342** | 39039          | **Force Blast**      | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **30 Rage**    | **Thunder Clap (Warrior)**         |
+| **8675343** | 39039          | **Force Blast**      | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **45 Energy**  | **Kidney Shot (Rogue)**            |
+| **8675344** | 39039          | **Force Blast**      | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **40 RP**      | **Blood Boil (Death Knight)**      |
+| **8675345** | 32936          | **Der'izu Forces**   | ![#8B4513](https://placehold.co/15x15/8B4513/8B4513.png) **Warrior (Rage)**  | **35 Rage**    | **Bladestorm (Warrior)**           |
+| **8675346** | 32936          | **Der'izu Forces**   | ![#32CD32](https://placehold.co/15x15/32CD32/32CD32.png) **Rogue (Energy)**  | **50 Energy**  | **Killing Spree (Rogue)**          |
+| **8675347** | 32936          | **Der'izu Forces**   | ![#8B0000](https://placehold.co/15x15/8B0000/8B0000.png) **Death Knight (Runic Power)** | **45 RP**      | **Army of the Dead (Death Knight)** |
 
 
 ---
