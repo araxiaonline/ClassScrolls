@@ -25,7 +25,30 @@ To ensure **seamless integration across all classes**, subclass abilities have b
 
 This adaptation allows for **better compatibility** across multiple class archetypes, ensuring that each subclass remains **functional, balanced, and engaging** regardless of the primary resource system.  
 
+## **Available Subclasses**  
 
+- [🌊 Aquamancer](#-aquamancer-inspired-by-twilight-aquamancer)  
+- [🔮 Arcanist](#-arcanist-the-arcanist-class-is-inspired-by-bashir-arcanist--derizu-arcanist)  
+- [🌌 Astromancer](#-astromancer-the-astromancer-class-is-inspired-by-sunfury-astromancer-and-novice-astromancer)  
+- [🛡️ Centurion](#-centurion-the-centurion-class-is-inspired-by-illidari-centurion-eclipsion-centurion-and-crimson-hand-centurion)  
+- [⛪ Chaplain](#-chaplain-the-chaplain-class-is-inspired-by-scarlet-chaplain)  
+- [❄️ Cryomancer](#-cryomancer-the-cryomancer-class-is-inspired-by-twilight-cryomancer)  
+- [🌍 Geomancer](#-geomancer-inspired-by-grimtotem-geomancer-and-razorfen-geomancer)  
+- [🏹 Harpooner](#-harpooner-inspired-by-coilskar-harpooner-dragonflayer-harpooner-and-tidewalker-harpooner)  
+- [🌊 Hydromancer](#-hydromancer-inspired-by-water-based-casters)  
+- [🥋 Monk](#-monk-the-monk-class-is-inspired-by-monk)  
+- [💀 Necromancer](#-necromancer-the-necromancer-class-is-inspired-by-dark-necromancer-burning-depths-necromancer-and-deatholme-necromancer)  
+- [🌌 Nethermancer](#-nethermancer-the-nethermancer-class-is-inspired-by-ethereal-nethermancer-and-sunfury-nethermancer)  
+- [🔥 Pyromancer](#-pyromancer-the-pyromancer-class-is-inspired-by-firebrand-pyromancer-and-sunhawk-pyromancer)  
+- [🌑 Shadowmancer](#-shadowmancer-the-shadowmancer-class-is-inspired-by-dark-conclave-shadowmancer)  
+- [🎶 Siren](#-siren-the-siren-class-is-inspired-by-coilskar-siren-daggerspine-siren-and-death-siren)  
+- [🔮 Soothsayer](#-soothsayer-the-soothsayer-class-is-inspired-by-ancient-drakkari-soothsayer-coilfang-soothsayer-and-coilskar-soothsayer)  
+- [🔍 Surveyor](#-surveyor-the-surveyor-class-is-inspired-by-bashir-surveyor-blood-elf-surveyor-and-gravelsnout-surveyor)  
+- [⏳ Time Bender](#-time-bender-the-time-bender-class-is-inspired-by-time-mage-from-final-fantasy-tactics)  
+- [☠️ Venomancer](#-venomancer-the-venomancer-class-is-inspired-by-venomancer-from-dota-2)  
+- [🪄 Witch Doctor](#-witch-doctor-the-witch-doctor-class-is-inspired-by-witch-doctor-npcs)  
+
+---
 
 ---
 
