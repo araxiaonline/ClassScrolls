@@ -1,8 +1,20 @@
-# Custom Araxia Sub-Class Scrolls
+# **Custom Araxia Sub-Class Scrolls**  
 
-This repository contains the class scroll designs and spell modifications for a **Azerothcore WOTLK 3.3.5**. Each class is inspired by existing NPC archetypes and includes a set of unique abilities adapted to work for different power types: **Rage**, **Energy**, and **Runic Power**.
+This repository contains the **class scroll designs and spell modifications** for **AzerothCore WOTLK 3.3.5**, introducing a new and dynamic **Expanded Subclass System** to enhance gameplay depth and variety.  
 
-### **Power Types**
+## **Expanded Subclass System: Enhancing Variety & Role-Playing Depth**  
+
+Our subclass system is designed to bring **greater variety and role-playing depth** to each class, much like **Dungeons & Dragons** subclasses. Certain subclasses will **synergize better** with specific main classes, offering unique and strategic combinations. For example, while the **Aquamancer** can provide **compelling utility for Priests**, its abilities may not be as effective for **Warriors**.  
+
+We are committed to **preserving the authenticity of the original game world**, ensuring that subclass abilities reflect **existing NPC characteristics and lore** while still allowing for **creative and diverse class combinations**. To maintain **game balance and thematic consistency**, some abilities may require **fine-tuning**, but our primary goal is to **retain the essence of each subclass** while enhancing overall gameplay.  
+
+**Player feedback is essential**, and we remain open to **adjusting spells and mechanics** to ensure they fit naturally within this system. Stay tuned for more details on subclass mechanics and how they will **reshape your gameplay experience**!  
+
+## **Adaptation for Different Power Types**  
+
+To ensure **seamless integration across all classes**, subclass abilities have been adapted to work with different **power types**, including **Rage, Energy, and Runic Power**.  
+
+### **Power Type Conversions**  
 
 | **Power Type**   | **Value** |  
 |-------------------|-----------|  
@@ -11,7 +23,9 @@ This repository contains the class scroll designs and spell modifications for a 
 | Energy           | `3`       |  
 | Runic Power      | `6`       |  
 
-To apply these power types, update the `PowerType` column in `Spell.dbc` for each spell.
+This adaptation allows for **better compatibility** across multiple class archetypes, ensuring that each subclass remains **functional, balanced, and engaging** regardless of the primary resource system.  
+
+
 
 ---
 
