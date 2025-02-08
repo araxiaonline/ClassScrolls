@@ -4,43 +4,63 @@ local ITEM_ENTRY = 500500 -- Aquamancer Scroll Item ID
 local SPELLS_BY_CLASS = {
     [1] = { -- Warrior (Rage)
         frostbolt = 8675300,
-        summon_aqua_guardian = 8675303
+        summon_aqua_guardian = 8675303,
+        water_bolt = 8675306,
+        aqua_jet = 8675309
     },
     [2] = { -- Paladin (Mana)
         frostbolt = 9672,
-        summon_aqua_guardian = 8372
+        summon_aqua_guardian = 8372,
+        water_bolt = 71686,
+        aqua_jet = 13586
     },
     [3] = { -- Hunter (Mana/Focus)
         frostbolt = 9672,
-        summon_aqua_guardian = 8372
+        summon_aqua_guardian = 8372,
+        water_bolt = 71686,
+        aqua_jet = 13586
     },
     [4] = { -- Rogue (Energy)
         frostbolt = 8675301,
-        summon_aqua_guardian = 8675304
+        summon_aqua_guardian = 8675304,
+        water_bolt = 8675307,
+        aqua_jet = 8675310
     },
     [5] = { -- Priest (Mana)
         frostbolt = 9672,
-        summon_aqua_guardian = 8372
+        summon_aqua_guardian = 8372,
+        water_bolt = 71686,
+        aqua_jet = 13586
     },
     [6] = { -- Death Knight (Runic Power)
         frostbolt = 8675302,
-        summon_aqua_guardian = 8675305
+        summon_aqua_guardian = 8675305,
+        water_bolt = 8675308,
+        aqua_jet = 8675311
     },
     [7] = { -- Shaman (Mana)
         frostbolt = 9672,
-        summon_aqua_guardian = 8372
+        summon_aqua_guardian = 8372,
+        water_bolt = 71686,
+        aqua_jet = 13586
     },
     [8] = { -- Mage (Mana)
         frostbolt = 9672,
-        summon_aqua_guardian = 8372
+        summon_aqua_guardian = 8372,
+        water_bolt = 71686,
+        aqua_jet = 13586
     },
     [9] = { -- Warlock (Mana)
         frostbolt = 9672,
-        summon_aqua_guardian = 8372
+        summon_aqua_guardian = 8372,
+        water_bolt = 71686,
+        aqua_jet = 13586
     },
     [11] = { -- Druid (Mana)
         frostbolt = 9672,
-        summon_aqua_guardian = 8372
+        summon_aqua_guardian = 8372,
+        water_bolt = 71686,
+        aqua_jet = 13586
     }
 }
 
@@ -67,7 +87,7 @@ local function OnUseAquamancerScroll(event, player, item, target)
             player:SendBroadcastMessage("You already know all the spells this scroll teaches.")
         end
     else
-        player:SendBroadcastMessage("Your class cannot use this scroll.")
+        player:SendBroadcastMessage("Your class cannot harness the power of the Aquamancer Scroll.")
     end
 end
 

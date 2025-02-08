@@ -3,10 +3,10 @@ local ITEM_ENTRY = 500501 -- Astromancer Scroll Item ID
 -- Map of class IDs to their specific spells
 local SPELLS_BY_CLASS = {
     [1] = { -- Warrior (Rage)
-        astral_focus = 8675306,
-        fiery_intellect = 8675309,
-        scorch = 8675312,
-        rain_of_fire = 8675315
+        astral_focus = 8675312,
+        fiery_intellect = 8675315,
+        scorch = 8675318,
+        rain_of_fire = 8675321
     },
     [2] = { -- Paladin (Mana)
         astral_focus = 35914,
@@ -21,10 +21,10 @@ local SPELLS_BY_CLASS = {
         rain_of_fire = 37279
     },
     [4] = { -- Rogue (Energy)
-        astral_focus = 8675307,
-        fiery_intellect = 8675310,
-        scorch = 8675313,
-        rain_of_fire = 8675316
+        astral_focus = 8675313,
+        fiery_intellect = 8675316,
+        scorch = 8675319,
+        rain_of_fire = 8675322
     },
     [5] = { -- Priest (Mana)
         astral_focus = 35914,
@@ -33,10 +33,10 @@ local SPELLS_BY_CLASS = {
         rain_of_fire = 37279
     },
     [6] = { -- Death Knight (Runic Power)
-        astral_focus = 8675308,
-        fiery_intellect = 8675311,
-        scorch = 8675314,
-        rain_of_fire = 8675317
+        astral_focus = 8675314,
+        fiery_intellect = 8675317,
+        scorch = 8675320,
+        rain_of_fire = 8675323
     },
     [7] = { -- Shaman (Mana)
         astral_focus = 35914,
@@ -87,7 +87,7 @@ local function OnUseAstromancerScroll(event, player, item, target)
             player:SendBroadcastMessage("You already know all the spells this scroll teaches.")
         end
     else
-        player:SendBroadcastMessage("Your class cannot use this scroll.")
+        player:SendBroadcastMessage("Your class cannot harness the power of the Astromancer Scroll.")
     end
 end
 
